@@ -1,3 +1,3 @@
 TUGAS INDIVIDU 3 PEMROGRAMAN WEB
-Dicko Azrinaldi
-NIM 120140127
+<br>Dicko Azrinaldi
+<br>NIM 120140127
